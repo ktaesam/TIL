@@ -2,7 +2,7 @@ def solution(wallpaper):
     answer = []
     
     lux = len(wallpaper[0])
-    luy = len(wallpaper)å
+    luy = len(wallpaper)
     rdx = 0
     rdy = 0
     
